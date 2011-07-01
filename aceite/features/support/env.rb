@@ -54,7 +54,6 @@ def limpacache_browser
     end
 end
 
-
 # "before all"
 
 limpacache_browser()
