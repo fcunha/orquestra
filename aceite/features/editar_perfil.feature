@@ -274,7 +274,7 @@ Cenário: Validação do Perfil Operador de VM de homologação
 	E saio do sistema
 	Dado que eu acesso a home do orquestra
 	Então devo ter acesso a area de "Processos"
-	E devo ter acesso a area de "Logs de operações"
+	E não devo ter acesso as funções de "Logs de operações"
 	E não devo ter acesso as funções de "Projetos"
 	E não devo ter acesso as funções de "Hosts"
 	E não devo ter acesso as funções de "Criar pool"
